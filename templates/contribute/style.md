@@ -43,7 +43,7 @@ without a line break, on separate lines.
 /-
 Copyright (c) 2015 Joe Cool. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
-Author: Joe Cool.
+Authors: Joe Cool.
 -/
 import data.nat
 import algebra.group
